@@ -1,5 +1,5 @@
-import React from "react";
-import TypeWriter from "react-typewriter";
+import React from 'react';
+import TypeWriter from 'react-typewriter';
 
 const Header = ({ data }) => {
   if (data) {
@@ -49,11 +49,11 @@ const Header = ({ data }) => {
               Works
             </a>
           </li>
-          <li>
+          {/* <li>
             <a className="smoothscroll" href="#testimonials">
               Testimonials
             </a>
-          </li>
+          </li> */}
           <li>
             <a className="smoothscroll" href="#contact">
               Contact
