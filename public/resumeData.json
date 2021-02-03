@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Mohib Khan",
+    "occupation": "React Developer",
+    "description": "I eat APIs for breakfast",
+    "image": "profilepic.jpg",
+    "bio": "",
+    "email": "mhkmohib@gmail.com",
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/mohibkay",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mohibkay",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mohibkay",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mohibkay/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mohibk",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Self-taught Developer",
+        "degree": "React",
+        "graduated": "Firebase",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "HTML & CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Firechat (React JS)",
+        "category": "",
+        "image": "firechat.png",
+        "url": ""
+      },
+      {
+        "title": "Twitter Clone (React JS)",
+        "category": "",
+        "image": "twitter-clone.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
